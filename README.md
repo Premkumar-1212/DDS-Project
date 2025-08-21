@@ -1,5 +1,5 @@
 🚀 College Data Structure Projects Collection
-Welcome to your all-in-one data structure project repository! This set includes:
+Welcome to my first data structure project repository! This set includes:
 
 🅿️ Smart Parking Lot Management
 
